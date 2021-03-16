@@ -1,0 +1,8 @@
+*
+beets
+onions
+dill
+apples
+sugar
+cinnamon
+*
